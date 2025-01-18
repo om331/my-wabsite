@@ -1,0 +1,19 @@
+/* .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background: linear-gradient(to right, #FF69B4, #FFC67D);
+    } */
+    
+    .image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    }
+    
+    .text {
+    font-size: 24px;
+    color: #333;
+    }
